@@ -5,6 +5,7 @@ syntax enable
 set background=dark
 " colorscheme solarized
 
+colorscheme desert
 
 autocmd BufRead,BufNewFile *.log set syntax=log
 
